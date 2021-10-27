@@ -1,5 +1,20 @@
 /* CSS files add styling rules to your content */
 
 h1 {
-  color: green;
+  color: #436cf2;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+}
+
+.links {
+  color: #c586fc;
+}
+
+body {
+  font-family: "Comfortaa";
 }
