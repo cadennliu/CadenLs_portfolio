@@ -53,16 +53,16 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 - [x] Add two more HTML files (Projects, Contact) to your Portfolio and link them all together.
 
-- [ ] Upload at least 2 images so they are hosted in your Portfolio.
+- [x] Upload at least 2 images so they are hosted in your Portfolio.
 
-- [ ] Update the title tags of all your new HTML files.
+- [x] Update the title tags of all your new HTML files.
 
-- [ ] Link your CSS file to all of your HTML files.
+- [x] Link your CSS file to all of your HTML files.
 
 ### Wrap
 
 - [ ] If you have finished early, move on to the Day 4 tasks. 
-- [ ] Push your changes back to your GitHub repo!
+- [x] Push your changes back to your GitHub repo!
 
 ## Day 4 
 
