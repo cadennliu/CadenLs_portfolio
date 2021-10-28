@@ -18,3 +18,30 @@ h1 {
 body {
   font-family: "Comfortaa";
 }
+
+a:hover{
+  color: #e5a3ad;
+} 
+
+.me{
+  width: 70%;
+  margin: 20px;
+}
+
+.gal {
+  width: 70%;
+  margin: 20px;
+}
+
+.aboutMe {
+  font-size: 20px;
+  display: flex;
+  margin: 10px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}

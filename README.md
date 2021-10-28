@@ -55,7 +55,7 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 - [x] Upload at least 2 images so they are hosted in your Portfolio.
 
-- [x] Update the title tags of all your new HTML files.
+- [ ] Update the title tags of all your new HTML files.
 
 - [x] Link your CSS file to all of your HTML files.
 
